@@ -1,0 +1,457 @@
+{
+  "group": "small",
+  "note": "Longest side is scaled to a handheld size. Sketchfab files are not metric.",
+  "bytes": 1293181,
+  "objects": [
+    {
+      "category": "banana",
+      "uid": "ada7c35a1a5742f1b4c528eb3daee35b",
+      "size_m": [
+        0.19,
+        0.084,
+        0.036
+      ]
+    },
+    {
+      "category": "banana",
+      "uid": "1787fb8e12f14318899702ae6c502de5",
+      "size_m": [
+        0.19,
+        0.135,
+        0.033
+      ]
+    },
+    {
+      "category": "banana",
+      "uid": "8c0d285c1e6b4ba3b5ea777b563c4c80",
+      "size_m": [
+        0.141,
+        0.19,
+        0.05
+      ]
+    },
+    {
+      "category": "apple",
+      "uid": "e3173857f9384aa4928daeabff75da44",
+      "size_m": [
+        0.08,
+        0.079,
+        0.068
+      ]
+    },
+    {
+      "category": "apple",
+      "uid": "b496adbf9b924ff99939ad38330eb3cf",
+      "size_m": [
+        0.079,
+        0.073,
+        0.08
+      ]
+    },
+    {
+      "category": "apple",
+      "uid": "14bd0d858839450d9bebc359c07779e5",
+      "size_m": [
+        0.064,
+        0.08,
+        0.065
+      ]
+    },
+    {
+      "category": "orange_(fruit)",
+      "uid": "3c28bca3e58b4448a650907c1edab432",
+      "size_m": [
+        0.08,
+        0.042,
+        0.08
+      ]
+    },
+    {
+      "category": "orange_(fruit)",
+      "uid": "79af8a0bff0f48e7a5fe6932157f8052",
+      "size_m": [
+        0.078,
+        0.079,
+        0.08
+      ]
+    },
+    {
+      "category": "orange_(fruit)",
+      "uid": "1c85f15fa094415d854cb167784ed122",
+      "size_m": [
+        0.08,
+        0.026,
+        0.022
+      ]
+    },
+    {
+      "category": "lemon",
+      "uid": "de2850e394424330aace7c165b4a0c08",
+      "size_m": [
+        0.056,
+        0.08,
+        0.057
+      ]
+    },
+    {
+      "category": "lemon",
+      "uid": "d6e218214e1a464ebfe0ff6b6ac36900",
+      "size_m": [
+        0.08,
+        0.059,
+        0.058
+      ]
+    },
+    {
+      "category": "lemon",
+      "uid": "08833f1df2794a9bb40d01cc13640e3f",
+      "size_m": [
+        0.058,
+        0.039,
+        0.08
+      ]
+    },
+    {
+      "category": "peach",
+      "uid": "e13413e3872a4d0a90758c5f4b9076b3",
+      "size_m": [
+        0.062,
+        0.07,
+        0.066
+      ]
+    },
+    {
+      "category": "peach",
+      "uid": "678c310aa4cf445889e96e3298218bfb",
+      "size_m": [
+        0.069,
+        0.066,
+        0.07
+      ]
+    },
+    {
+      "category": "peach",
+      "uid": "21e1712c27b847e393ac39214f2762a0",
+      "size_m": [
+        0.07,
+        0.07,
+        0.07
+      ]
+    },
+    {
+      "category": "carrot",
+      "uid": "7b14d61a88114f86a079235a16816949",
+      "size_m": [
+        0.144,
+        0.18,
+        0.13
+      ]
+    },
+    {
+      "category": "carrot",
+      "uid": "53c1ac4a7089403a850519eba65de629",
+      "size_m": [
+        0.069,
+        0.131,
+        0.18
+      ]
+    },
+    {
+      "category": "carrot",
+      "uid": "430047bd3ce643fcb93a3c5be65352aa",
+      "size_m": [
+        0.108,
+        0.18,
+        0.108
+      ]
+    },
+    {
+      "category": "cellular_telephone",
+      "uid": "41a004d0af534bac87a2c35edaf3ef14",
+      "size_m": [
+        0.05,
+        0.014,
+        0.15
+      ]
+    },
+    {
+      "category": "cellular_telephone",
+      "uid": "b77da5b9052e4ec1b0eae32d9e07beca",
+      "size_m": [
+        0.064,
+        0.15,
+        0.03
+      ]
+    },
+    {
+      "category": "cellular_telephone",
+      "uid": "15c2adf9af7a46fd8eb059ff053bec6a",
+      "size_m": [
+        0.044,
+        0.15,
+        0.019
+      ]
+    },
+    {
+      "category": "remote_control",
+      "uid": "f1bbc61a42b94ee9a2976ca744f8962e",
+      "size_m": [
+        0.038,
+        0.018,
+        0.17
+      ]
+    },
+    {
+      "category": "remote_control",
+      "uid": "35ac912c7dc14175ab8be82a2c5fe551",
+      "size_m": [
+        0.033,
+        0.018,
+        0.17
+      ]
+    },
+    {
+      "category": "remote_control",
+      "uid": "424f51f77f7c4824a1453d1706f3f914",
+      "size_m": [
+        0.037,
+        0.01,
+        0.17
+      ]
+    },
+    {
+      "category": "mouse_(computer_equipment)",
+      "uid": "bd0176444b9043ccbcf82e9e27346c78",
+      "size_m": [
+        0.057,
+        0.031,
+        0.11
+      ]
+    },
+    {
+      "category": "mouse_(computer_equipment)",
+      "uid": "14670585f48a48738134523d6a5b17e6",
+      "size_m": [
+        0.068,
+        0.042,
+        0.11
+      ]
+    },
+    {
+      "category": "mouse_(computer_equipment)",
+      "uid": "45c8f611a28a4e0e9b74bb132ad43ae7",
+      "size_m": [
+        0.067,
+        0.034,
+        0.11
+      ]
+    },
+    {
+      "category": "cup",
+      "uid": "9646813e492b47fcae126b2491554991",
+      "size_m": [
+        0.09,
+        0.067,
+        0.066
+      ]
+    },
+    {
+      "category": "cup",
+      "uid": "1f9e92f742564f28abea906b07a13db5",
+      "size_m": [
+        0.087,
+        0.09,
+        0.087
+      ]
+    },
+    {
+      "category": "cup",
+      "uid": "9770e5a091e94eee9636b5284f8d3e4f",
+      "size_m": [
+        0.081,
+        0.09,
+        0.081
+      ]
+    },
+    {
+      "category": "mug",
+      "uid": "e5e87ddbf3f6470384bef58431351e2a",
+      "size_m": [
+        0.1,
+        0.071,
+        0.071
+      ]
+    },
+    {
+      "category": "mug",
+      "uid": "922cd7d18c6748d49fe651ded8a04cf4",
+      "size_m": [
+        0.1,
+        0.05,
+        0.083
+      ]
+    },
+    {
+      "category": "mug",
+      "uid": "93ad19db34bc49a0b7acc24e7a5a22fd",
+      "size_m": [
+        0.1,
+        0.076,
+        0.072
+      ]
+    },
+    {
+      "category": "bottle",
+      "uid": "39b092718d1b4068abba42ea00cee691",
+      "size_m": [
+        0.092,
+        0.28,
+        0.092
+      ]
+    },
+    {
+      "category": "bottle",
+      "uid": "0db165441e2f4994aebb90ceb4fbfab9",
+      "size_m": [
+        0.196,
+        0.28,
+        0.264
+      ]
+    },
+    {
+      "category": "bottle",
+      "uid": "ef94916c83e441d483e6e3b9647d274b",
+      "size_m": [
+        0.074,
+        0.28,
+        0.074
+      ]
+    },
+    {
+      "category": "water_bottle",
+      "uid": "f51306c13cd14d38bdcd7a31d8804bfb",
+      "size_m": [
+        0.089,
+        0.24,
+        0.089
+      ]
+    },
+    {
+      "category": "water_bottle",
+      "uid": "865a12da7eac48f5bc483e090441ccca",
+      "size_m": [
+        0.076,
+        0.24,
+        0.076
+      ]
+    },
+    {
+      "category": "water_bottle",
+      "uid": "07b07f7292ed41019a8b6aebd98a5c29",
+      "size_m": [
+        0.066,
+        0.24,
+        0.066
+      ]
+    },
+    {
+      "category": "bowl",
+      "uid": "36b3c0e2bd5547aca9fadf220f4e0051",
+      "size_m": [
+        0.159,
+        0.067,
+        0.16
+      ]
+    },
+    {
+      "category": "bowl",
+      "uid": "c56a233f4cbd4d308aaef3416bacc3f9",
+      "size_m": [
+        0.156,
+        0.16,
+        0.156
+      ]
+    },
+    {
+      "category": "bowl",
+      "uid": "ede795f1c6f74a99b6952183f340fcb8",
+      "size_m": [
+        0.16,
+        0.092,
+        0.16
+      ]
+    },
+    {
+      "category": "spoon",
+      "uid": "8aea6a87c9d74d47ba2787f779a55561",
+      "size_m": [
+        0.038,
+        0.17,
+        0.018
+      ]
+    },
+    {
+      "category": "spoon",
+      "uid": "aaf3299d27bf4fb7a2ba4289c215cf3a",
+      "size_m": [
+        0.17,
+        0.041,
+        0.031
+      ]
+    },
+    {
+      "category": "spoon",
+      "uid": "d5e58061e1574ead967662f8cc1cb8a4",
+      "size_m": [
+        0.052,
+        0.17,
+        0.052
+      ]
+    },
+    {
+      "category": "fork",
+      "uid": "304dcd388de74daa8c4024acc3a4127c",
+      "size_m": [
+        0.026,
+        0.015,
+        0.18
+      ]
+    },
+    {
+      "category": "fork",
+      "uid": "1c5728e970b84df9b418c2821da5bd41",
+      "size_m": [
+        0.18,
+        0.01,
+        0.028
+      ]
+    },
+    {
+      "category": "fork",
+      "uid": "5593779fcbcb42ab8679eebfd23d9f2b",
+      "size_m": [
+        0.019,
+        0.02,
+        0.18
+      ]
+    },
+    {
+      "category": "knife",
+      "uid": "0e4323816a78466a8fa2c677e7cdeaf1",
+      "size_m": [
+        0.2,
+        0.073,
+        0.005
+      ]
+    },
+    {
+      "category": "knife",
+      "uid": "85f6f00a63b94713b4be4ebee654b430",
+      "size_m": [
+        0.041,
+        0.2,
+        0.069
+      ]
+    }
+  ]
+}

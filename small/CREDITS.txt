@@ -1,0 +1,61 @@
+Small handheld objects for the DIG stream test.
+
+Dataset: Objaverse, Allen Institute for AI.
+https://objaverse.allenai.org/
+The dataset as a whole is ODC-By 1.0. Individual objects are Creative Commons.
+
+This folder is the small size group. Larger groups will live in their own folders.
+Sketchfab exports are not reliable meters, so each mesh is scaled so its longest side matches a typical handheld size.
+pack.bytes is the DIG1 binary (vertex colors, no separate textures).
+
+Objects:
+- banana  ada7c35a1a5742f1b4c528eb3daee35b  0.190 x 0.084 x 0.036 m
+- banana  1787fb8e12f14318899702ae6c502de5  0.190 x 0.135 x 0.033 m
+- banana  8c0d285c1e6b4ba3b5ea777b563c4c80  0.141 x 0.190 x 0.050 m
+- apple  e3173857f9384aa4928daeabff75da44  0.080 x 0.079 x 0.068 m
+- apple  b496adbf9b924ff99939ad38330eb3cf  0.079 x 0.073 x 0.080 m
+- apple  14bd0d858839450d9bebc359c07779e5  0.064 x 0.080 x 0.065 m
+- orange_(fruit)  3c28bca3e58b4448a650907c1edab432  0.080 x 0.042 x 0.080 m
+- orange_(fruit)  79af8a0bff0f48e7a5fe6932157f8052  0.078 x 0.079 x 0.080 m
+- orange_(fruit)  1c85f15fa094415d854cb167784ed122  0.080 x 0.026 x 0.022 m
+- lemon  de2850e394424330aace7c165b4a0c08  0.056 x 0.080 x 0.057 m
+- lemon  d6e218214e1a464ebfe0ff6b6ac36900  0.080 x 0.059 x 0.058 m
+- lemon  08833f1df2794a9bb40d01cc13640e3f  0.058 x 0.039 x 0.080 m
+- peach  e13413e3872a4d0a90758c5f4b9076b3  0.062 x 0.070 x 0.066 m
+- peach  678c310aa4cf445889e96e3298218bfb  0.069 x 0.066 x 0.070 m
+- peach  21e1712c27b847e393ac39214f2762a0  0.070 x 0.070 x 0.070 m
+- carrot  7b14d61a88114f86a079235a16816949  0.144 x 0.180 x 0.130 m
+- carrot  53c1ac4a7089403a850519eba65de629  0.069 x 0.131 x 0.180 m
+- carrot  430047bd3ce643fcb93a3c5be65352aa  0.108 x 0.180 x 0.108 m
+- cellular_telephone  41a004d0af534bac87a2c35edaf3ef14  0.050 x 0.014 x 0.150 m
+- cellular_telephone  b77da5b9052e4ec1b0eae32d9e07beca  0.064 x 0.150 x 0.030 m
+- cellular_telephone  15c2adf9af7a46fd8eb059ff053bec6a  0.044 x 0.150 x 0.019 m
+- remote_control  f1bbc61a42b94ee9a2976ca744f8962e  0.038 x 0.018 x 0.170 m
+- remote_control  35ac912c7dc14175ab8be82a2c5fe551  0.033 x 0.018 x 0.170 m
+- remote_control  424f51f77f7c4824a1453d1706f3f914  0.037 x 0.010 x 0.170 m
+- mouse_(computer_equipment)  bd0176444b9043ccbcf82e9e27346c78  0.057 x 0.031 x 0.110 m
+- mouse_(computer_equipment)  14670585f48a48738134523d6a5b17e6  0.068 x 0.042 x 0.110 m
+- mouse_(computer_equipment)  45c8f611a28a4e0e9b74bb132ad43ae7  0.067 x 0.034 x 0.110 m
+- cup  9646813e492b47fcae126b2491554991  0.090 x 0.067 x 0.066 m
+- cup  1f9e92f742564f28abea906b07a13db5  0.087 x 0.090 x 0.087 m
+- cup  9770e5a091e94eee9636b5284f8d3e4f  0.081 x 0.090 x 0.081 m
+- mug  e5e87ddbf3f6470384bef58431351e2a  0.100 x 0.071 x 0.071 m
+- mug  922cd7d18c6748d49fe651ded8a04cf4  0.100 x 0.050 x 0.083 m
+- mug  93ad19db34bc49a0b7acc24e7a5a22fd  0.100 x 0.076 x 0.072 m
+- bottle  39b092718d1b4068abba42ea00cee691  0.092 x 0.280 x 0.092 m
+- bottle  0db165441e2f4994aebb90ceb4fbfab9  0.196 x 0.280 x 0.264 m
+- bottle  ef94916c83e441d483e6e3b9647d274b  0.074 x 0.280 x 0.074 m
+- water_bottle  f51306c13cd14d38bdcd7a31d8804bfb  0.089 x 0.240 x 0.089 m
+- water_bottle  865a12da7eac48f5bc483e090441ccca  0.076 x 0.240 x 0.076 m
+- water_bottle  07b07f7292ed41019a8b6aebd98a5c29  0.066 x 0.240 x 0.066 m
+- bowl  36b3c0e2bd5547aca9fadf220f4e0051  0.159 x 0.067 x 0.160 m
+- bowl  c56a233f4cbd4d308aaef3416bacc3f9  0.156 x 0.160 x 0.156 m
+- bowl  ede795f1c6f74a99b6952183f340fcb8  0.160 x 0.092 x 0.160 m
+- spoon  8aea6a87c9d74d47ba2787f779a55561  0.038 x 0.170 x 0.018 m
+- spoon  aaf3299d27bf4fb7a2ba4289c215cf3a  0.170 x 0.041 x 0.031 m
+- spoon  d5e58061e1574ead967662f8cc1cb8a4  0.052 x 0.170 x 0.052 m
+- fork  304dcd388de74daa8c4024acc3a4127c  0.026 x 0.015 x 0.180 m
+- fork  1c5728e970b84df9b418c2821da5bd41  0.180 x 0.010 x 0.028 m
+- fork  5593779fcbcb42ab8679eebfd23d9f2b  0.019 x 0.020 x 0.180 m
+- knife  0e4323816a78466a8fa2c677e7cdeaf1  0.200 x 0.073 x 0.005 m
+- knife  85f6f00a63b94713b4be4ebee654b430  0.041 x 0.200 x 0.069 m
