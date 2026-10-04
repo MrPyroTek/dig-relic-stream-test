@@ -1,7 +1,7 @@
 {
   "group": "small",
   "note": "Longest side is scaled to a handheld size. Sketchfab files are not metric.",
-  "bytes": 1293181,
+  "bytes": 1190452,
   "objects": [
     {
       "category": "banana",
@@ -194,15 +194,6 @@
     },
     {
       "category": "remote_control",
-      "uid": "f1bbc61a42b94ee9a2976ca744f8962e",
-      "size_m": [
-        0.038,
-        0.018,
-        0.17
-      ]
-    },
-    {
-      "category": "remote_control",
       "uid": "35ac912c7dc14175ab8be82a2c5fe551",
       "size_m": [
         0.033,
@@ -216,6 +207,15 @@
       "size_m": [
         0.037,
         0.01,
+        0.17
+      ]
+    },
+    {
+      "category": "remote_control",
+      "uid": "f6b98543b5a84efdb88654af793a7791",
+      "size_m": [
+        0.074,
+        0.017,
         0.17
       ]
     },
@@ -239,9 +239,9 @@
     },
     {
       "category": "mouse_(computer_equipment)",
-      "uid": "45c8f611a28a4e0e9b74bb132ad43ae7",
+      "uid": "b7ecc8cc78ae48dfaf10441dcc304cd2",
       "size_m": [
-        0.067,
+        0.061,
         0.034,
         0.11
       ]
@@ -257,20 +257,20 @@
     },
     {
       "category": "cup",
-      "uid": "1f9e92f742564f28abea906b07a13db5",
-      "size_m": [
-        0.087,
-        0.09,
-        0.087
-      ]
-    },
-    {
-      "category": "cup",
       "uid": "9770e5a091e94eee9636b5284f8d3e4f",
       "size_m": [
         0.081,
         0.09,
         0.081
+      ]
+    },
+    {
+      "category": "cup",
+      "uid": "b2a193a08f654ed58147d8df30c8b4d9",
+      "size_m": [
+        0.089,
+        0.09,
+        0.089
       ]
     },
     {
@@ -401,11 +401,11 @@
     },
     {
       "category": "spoon",
-      "uid": "d5e58061e1574ead967662f8cc1cb8a4",
+      "uid": "02c0dd0a4a9f4e7f9017d549bfe2e124",
       "size_m": [
-        0.052,
         0.17,
-        0.052
+        0.021,
+        0.042
       ]
     },
     {
@@ -437,20 +437,20 @@
     },
     {
       "category": "knife",
-      "uid": "0e4323816a78466a8fa2c677e7cdeaf1",
-      "size_m": [
-        0.2,
-        0.073,
-        0.005
-      ]
-    },
-    {
-      "category": "knife",
       "uid": "85f6f00a63b94713b4be4ebee654b430",
       "size_m": [
         0.041,
         0.2,
         0.069
+      ]
+    },
+    {
+      "category": "knife",
+      "uid": "2f55fb55663146e286c166fa29aa2e74",
+      "size_m": [
+        0.02,
+        0.2,
+        0.062
       ]
     }
   ]
